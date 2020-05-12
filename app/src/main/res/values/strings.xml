@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="Rock">Rock</string>
+    <string name="Paper">Paper</string>
+    <string name="Scissors">Scissors</string>
+    <string name="Winner">Winner: </string>
+    <string name="Score">Score</string>
+    <string name="Bot">Bot</string>
+    <string name="DefaultName">User</string>
+    <string name="Pick">Picked</string>
+    <string name="Draw">Draw</string>
+    <string name="Start">Start</string>
+    <string name="Input">Give your name:</string>
+</resources>
